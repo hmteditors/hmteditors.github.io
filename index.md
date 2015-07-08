@@ -3,23 +3,23 @@ layout: page
 title: The Homer Multitext project collaborative editing
 ---
 
-## Teams
-Teams from the following institutions are currently contributing to the Homer Multitext project's digital diplomatic editions of Homeric manuscripts:
 
-- [Brandeis University](https://github.com/hmteditors/brandeis)
-- [Furman University](https://github.com/hmteditors/furman)
-- [the College of the Holy Cross](https://github.com/hmteditors/hc)
-- [Gustavus Adolphus College](https://github.com/hmteditors/gustavus)
-- [Leiden University](https://github.com/hmteditors/leiden)
-- [Trinity University](https://github.com/hmteditors/trinity)
-- [University of Washington](https://github.com/hmteditors/uwash)
+## Initial work plan for 2015-2016 academic year
+
+In 2015-2016, we project that we can complete:
+
+- total editing of approximately 18-20 books of the *Iliad* in the Venetus A MS
+- navigational indexing of 5-7 manuscripts of the *Iliad* with scholia
 
 
-In addition, we are organizing a [team of experienced project members](https://github.com/hmteditors/alums1) who will be experimenting with a distributed approach to our collaborative editorial methods.
+See detailed [assignments for 2015-2016](2015-2016).
 
-## Resources for editors
 
-All contributors should also be members of the [HMT editors resource forum](https://accounts.google.com/ServiceLogin?service=groups2&passive=1209600&continue=https%3A%2F%2Fgroups.google.com%2Fforum%2F&followup=https%3A%2F%2Fgroups.google.com%2Fforum%2F&authuser=0#!forum/homer-multitext-editors-resource-forum).
+## References ##
 
-Information and links for editors are available from [this page on the Homer Multitext web site](http://www.homermultitext.org/for-editors.html).
+
+- [Teams](teams)
+- [Resources for editors](resources)
+
+
 
