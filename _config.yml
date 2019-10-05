@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+#markdown:         redcarpet
+# pygments:         true
 
 # Permalinks
 permalink:        pretty
@@ -15,7 +15,7 @@ baseurl: ''
 
 author:
   name:           'Neel Smith'
- 
+
 paginate:         5
 
 links:
@@ -28,5 +28,3 @@ links:
   - title: Github source for this site
     url: https://github.com/homermultitext/hmteditors.github.io
     external: true
-
-   

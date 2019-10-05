@@ -4,22 +4,17 @@ title: The Homer Multitext project collaborative editing
 ---
 
 
-## Initial work plan for 2015-2016 academic year
-
-In 2015-2016, we project that we can complete:
-
-- total editing of approximately 18-20 books of the *Iliad* in the Venetus A MS
-- navigational indexing of 5-7 manuscripts of the *Iliad* with scholia
+## Initial work plan for 2019-2020 academic year
 
 
-See detailed [assignments for 2015-2016](2015-2016).
+Overview:  parallel editing of Upsilon 1.1 and Venetus B; review/revision of parallel sections of Venetus A; as possible, adding parallel sections of Townley.
+
+Current team projects:
+
+-  Leiden: *Iliad* 17, completing work from summer 2019 in Venetus B and Upsilon 1.1., plus beginning on *Iliad* 17 in Townley
+-  Holy Cross: *Iliad* 10, completing work from summer 2019 in Venetus B and Upsilon 1.1.
 
 
 ## References ##
 
-
-- [Teams](teams)
-- [Resources for editors](resources)
-
-
-
+- links to [images of manuscript pages](image-lists)
